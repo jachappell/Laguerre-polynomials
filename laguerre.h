@@ -26,7 +26,7 @@
 /*
  * legendre.h:  Version 0.01
  * Created by James A. Chappell <rlrrlrll@gmail.com>
- * http://www.storage-b.com/XXXXX
+ * https://www.storage-b.com/math-numerical-analysis/660
  * Created 22 November 2019
  *
  * History:
